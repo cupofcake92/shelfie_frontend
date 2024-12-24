@@ -7,7 +7,7 @@ The app is built using a Rails API backend, and JavaScript, HTML, CSS, and Boots
 ![Screen Shot 2022-07-11 at 11 00 45 AM](https://user-images.githubusercontent.com/26771302/178295494-881c3abb-3ac6-46a3-bea1-d83b32735f8f.jpeg)
 
 # How to use it
-The backend is located here: https://github.com/dani8439/shelfie_backend
+The backend is located here: https://github.com/cupofcake92/shelfie_backend
 
 1. Clone both repositories to your computer.
 2. CD into `shelfie_backend`.
